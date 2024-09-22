@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\bin\Debug\netcoreapp2.1\Tic_F23_IPG202.deps.json
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\bin\Debug\netcoreapp2.1\Tic_F23_IPG202.runtimeconfig.json
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\bin\Debug\netcoreapp2.1\Tic_F23_IPG202.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\bin\Debug\netcoreapp2.1\Tic_F23_IPG202.dll
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\bin\Debug\netcoreapp2.1\Tic_F23_IPG202.pdb
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.dll
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.pdb
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Tic_F23_IPG202\Tic_F23_IPG202\obj\Debug\netcoreapp2.1\Tic_F23_IPG202.genruntimeconfig.cache
